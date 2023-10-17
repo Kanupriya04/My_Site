@@ -1,0 +1,31 @@
+#title{
+   background-color: #F4BEEE;
+}
+
+.container-fluid
+{
+   padding: 3% 15%;
+
+
+}
+.h11
+{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #570A57;
+}
+
+h3
+{
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-size: 1rem;
+    color: white;
+    background-color: #C689C6;
+    text-align: center;
+}
+
+p
+{
+  text-align: center;
+}
